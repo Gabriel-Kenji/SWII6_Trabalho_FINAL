@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhBkxct0FvuYIrRbKeCYifgf+gDzNrYp+xy96p2KM6IuJ6My7FU0jg8uubsqi9Q8dIgmZ/cjxLlfTVpE5eZg2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KENJI\\Desktop\\SWII_Final_TP\\SWII_Web_ASP\\TP_Final_Web_asp\\TP_Final_Web_asp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KENJI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\KENJI\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
